@@ -1,0 +1,12 @@
+C:\Users\lenovo\OneDrive\Desktop\FoodieAPI\FoodieAPI\app\publish\FoodieAPI.exe
+C:\Users\lenovo\OneDrive\Desktop\FoodieAPI\FoodieAPI\app\publish\appsettings.Development.json
+C:\Users\lenovo\OneDrive\Desktop\FoodieAPI\FoodieAPI\app\publish\appsettings.json
+C:\Users\lenovo\OneDrive\Desktop\FoodieAPI\FoodieAPI\app\publish\FoodieAPI.dll
+C:\Users\lenovo\OneDrive\Desktop\FoodieAPI\FoodieAPI\app\publish\FoodieAPI.deps.json
+C:\Users\lenovo\OneDrive\Desktop\FoodieAPI\FoodieAPI\app\publish\FoodieAPI.runtimeconfig.json
+C:\Users\lenovo\OneDrive\Desktop\FoodieAPI\FoodieAPI\app\publish\FoodieAPI.pdb
+C:\Users\lenovo\OneDrive\Desktop\FoodieAPI\FoodieAPI\app\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\lenovo\OneDrive\Desktop\FoodieAPI\FoodieAPI\app\publish\Microsoft.OpenApi.dll
+C:\Users\lenovo\OneDrive\Desktop\FoodieAPI\FoodieAPI\app\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lenovo\OneDrive\Desktop\FoodieAPI\FoodieAPI\app\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lenovo\OneDrive\Desktop\FoodieAPI\FoodieAPI\app\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
